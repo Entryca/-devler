@@ -1,1 +1,1 @@
-# -devler
+# GlobalAIHubPythonHomework
